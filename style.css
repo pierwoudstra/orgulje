@@ -11,4 +11,6 @@ html, body {
   
     /* This centers our sketch vertically. */
     align-items: center;
+
+    background: linear-gradient(90deg, blue 0%, rgba(255,255,255,1) 30%, rgba(255,255,255,1) 70%, blue;
   }
