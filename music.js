@@ -64,7 +64,7 @@ function preload() {
 
 function setup() {
 	createCanvas(400, 400);
-	frameRate(5);
+	frameRate(10);
 }
 
 // tekenen van de bal op scherm
